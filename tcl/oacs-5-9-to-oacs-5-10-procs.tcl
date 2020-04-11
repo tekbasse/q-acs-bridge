@@ -3,11 +3,8 @@ ad_library {
     @creation-date 11 April 2020
 }
 
-namespace util {}
 
-adp_proc -public util::random {
 
-}
 
 # Following from acs-tcl/tcl/utilities-procs.tcl
 
